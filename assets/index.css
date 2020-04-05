@@ -1,0 +1,21 @@
+html {
+    overflow: hidden;
+}
+
+.icon {
+    letter-spacing: 35px;
+}
+
+.hide {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Chrome, Opera and Firefox */ /*questions 826782 stackoverflow*/
+    color: 	#209cee;
+}
+
+.a {
+    font-size: larger;
+}
