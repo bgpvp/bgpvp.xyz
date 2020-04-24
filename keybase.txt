@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/bgpvp
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://bgpvp.xyz
+  * I am bgpvp (https://keybase.io/bgpvp) on keybase.
+  * I have a public key with fingerprint 27E4 8EE8 8C0B C777 C6E3  86FC 922F 6CC1 4CFB 7AB1
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101462b72ad7658a70d7ae75c8b84552a304c7e62b3c85cf4cfe25db377653f1d3a0a",
+      "fingerprint": "27e48ee88c0bc777c6e386fc922f6cc14cfb7ab1",
+      "host": "keybase.io",
+      "key_id": "922f6cc14cfb7ab1",
+      "kid": "0101462b72ad7658a70d7ae75c8b84552a304c7e62b3c85cf4cfe25db377653f1d3a0a",
+      "uid": "dcf533342882ab864a20708f2c700719",
+      "username": "bgpvp"
+    },
+    "service": {
+      "hostname": "bgpvp.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1587723485,
+  "expire_in": 157680000,
+  "prev": "40ff5dd2e037ced71a9ebb15361244ee07cefca16eee8f0099cbc5e642d48180",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIlAnicrVJbSFRBGN7VdTPDLgQidKNDaKDInOvMbgplJBGSbhdK0NZz5sxZj5ez
+656z642tlKy0RMKwh+hmiJRUFhFJdjF8CK3QIgrEQqKgDKoHMyyqOVLQQ4/NyzDf
+fN833//PP5Qc70hyuleb5R9gd7JzZPBYxLGna2CigVGCah3jbWAqyNxGKlViWv4K
+XWW8DGABK0icAjlZhZKIZAhUKBMoYqQgQRQ5mQcChoRSeIxErAlYI5yoKjykdF5j
+VV4GMpPJaLoRIOFQWDcsastBIiBCEMJAwRBCLBEeSRr2cJwmYcxSFwXKCkuFZUHT
+VtBwimySLD1IMXrwz8X7B/8/547M2alYE3meFziEOFlBkiBzAAKkcRgCAFmPTTRJ
+2JCrCGUrgVA0xMQyGQpFdUzsrtpl/H2dVVtXT1WhcNAK4mAlhcssK2R6bZlVF7J5
+NUTx/3bwK7qh0g5SRZSETT1oMF6WMrGl25asiCDkeAGJmQypDelh4tdthgglBOiy
+3yFRaikATRNVlSOAh5iokJU9RFFYkZdYThAIARTVsMxKhH6OBoDHgxUsEkngVAGx
+CDB2TdVGkPEKNKYcoJamHjBkKxImTOz+vWKXw5nkcCfE2ZPlSJq/+M+83cyd9zPW
+0nf1Xb3RF2+Mbt0b/7Szu2TnjlTfbG7Jk20ZPeeKBr49DMSNXrh8qP16XtKqIzlv
+Lr5fBwv4miLTVeJwRb43T6dMDuQ8f316V8fyqUv40Jo76Z3XVpwIf6rpdq4XM1wP
+bgBnYFf/JNx/YGV+1+HYreiy6bcbiusXNS6JVh9O08r3uaZbn51ZO1HMD97NX7W5
+98qO9qaCxL7j2enF5xcedL3syG2pyOqtyup4kTy2pZwZn+l7FVCaUnaX9izd3vm1
+ejjVvTHh1EjjTNvHH8OFzQkLWo7mJV6xhDTfJp/8pf/R491TPvf4RNvYxGB22lmz
+sPTyTP3Qgrjb51pPdmmfz84avwCWNDuU
+=cJx7
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bgpvp
+
+==================================================================
