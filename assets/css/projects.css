@@ -1,0 +1,20 @@
+/*html {
+    overflow: hidden;
+}*/
+
+.notification {
+    background-color: #2f3542;
+}
+
+img {
+    position: absolute;
+}
+
+h1.title {
+    margin-left: 3.5em;
+    padding-bottom: 5px;
+}
+
+h2.subtitle {
+    margin-left: 5.75em;
+}
